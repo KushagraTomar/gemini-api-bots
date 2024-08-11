@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyB-VHUGCkxDMElEPugEDQgRjBYHTPntMNk";
+const API_KEY = "";
 
 const {
   GoogleAIFileManager,
